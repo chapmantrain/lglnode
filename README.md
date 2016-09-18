@@ -1,0 +1,2 @@
+# lglnode
+Test Legal Node
